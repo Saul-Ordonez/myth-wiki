@@ -1,0 +1,27 @@
+body {
+  background-image: url(../imgs/background.jpg);
+  background-image: fixed;
+
+}
+
+h1 {
+  font-family: 'Cinzel';
+  font-size: 100px;
+  text-align: center;
+  text-decoration: underline;
+  color:
+
+}
+
+p {
+  font-size: 20px;
+}
+
+img {
+  height: 400px;
+  width: 400px;
+}
+
+#hidden1, #hidden2, #hidden3 {
+  display: none;
+}
